@@ -1,5 +1,7 @@
-<h2> Hi, I'm Flor Leiva👋👩‍💻</h2>
-I'm a <code>system analyst student</code> and currently working on Coldview.
+<h2> Hi, my name is Florencia Leiva👋👩‍💻</h2>
+
+I'm <code>IT Operations Analyst</code> on Coldview and I still learning to become a developer.
+
 <hr>
 
 <p>

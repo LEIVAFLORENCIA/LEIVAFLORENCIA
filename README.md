@@ -1,6 +1,6 @@
 <h2> Hi, my name is Florencia Leiva👋👩‍💻</h2>
 
-I'm <code>Developer</code> on Coldview and I still learning to become a FullStack.
+I'm <code>Developer</code> on Tecso and I still learning to become a FullStack.
 - 😄 Pronouns: She/Her
 <hr>
 
